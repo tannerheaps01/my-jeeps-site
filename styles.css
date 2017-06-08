@@ -1,0 +1,66 @@
+.header {
+    background-color: #000000;
+    height: 80px;
+}
+
+.header a {
+    text-decoration: none;
+    color: white;
+}
+
+.promotions {
+    background-color: lightgray;
+    padding: 20px;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.carsale {
+    background-color: white;
+}
+
+.carsale p {
+    display: flex;
+    justify-content: center;
+}
+
+.msrp {
+    text-decoration: none;
+    color: rgb(99, 99, 99);
+    font-size: 10px;
+}
+
+.awards {
+    background-color: #D1D1D1;
+    padding: 30px;
+}
+.awards h2{
+	display: inline;
+}
+
+.ndnavbar {
+    background-color: #212121;
+    padding: 40px;
+}
+
+.ndnavbar a {
+    text-decoration: none;
+    color: white;
+}
+
+.lotsoflinks {
+    background-color: #000000;
+}
+
+.awardp {
+    width: 753px;
+    margin: 0 auto;
+    overflow: auto;
+}
+.awardp img{
+	float: left;
+}
